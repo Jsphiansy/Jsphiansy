@@ -21,7 +21,7 @@ Developer Tools: Git, GitHub, VS Code, Docker, Postman, Thunder Clients
 
 AI-Assisted Development: Google Gemini, ChatGPT, Perplexity
 
-Let's connect:
+🛜 Let's connect:
 
 Linkedin: inkedin.com/in/joseph-iansy
 
