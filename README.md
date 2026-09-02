@@ -8,6 +8,7 @@ I'd appreciate any feedback or contributions!
 
 <img width="160" height="160" alt="unnamed" src="https://github.com/user-attachments/assets/fb8b928c-8cf6-41f0-b596-46b54bbe7189" />
 
+
 🛠️ Technical Skills
 
 ●	Frontend: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, shadcn/ui
