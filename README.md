@@ -6,6 +6,7 @@ I am a solo developer specializing in building end-to-end, production-ready web 
 
 I'd appreciate any feedback or contributions!
 
+<img width="160" height="160" alt="unnamed" src="https://github.com/user-attachments/assets/fb8b928c-8cf6-41f0-b596-46b54bbe7189" />
 
 🛠️ Technical Skills
 
