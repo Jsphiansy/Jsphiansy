@@ -1,5 +1,5 @@
-Hi there!, I'm Joseph 👋
-
+Hi there!, I'm Josephiansy 👋
+-------------------------------------------------------------------------------------------------------------------------------------------------
 Full-Stack Web Developer
 
 I am a solo developer specializing in building end-to-end, production-ready web applications. Because I handle the entire stack, I focus heavily on clean system design, strict Left-to-Right process flows, and zero-trust backend architecture.
